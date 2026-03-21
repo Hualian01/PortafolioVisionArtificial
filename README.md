@@ -14,3 +14,6 @@ Este laboratorio introduce los conceptos fundamentales de la visión por computa
 
 ### [2. Introducción a OpenCV II](https://github.com/Hualian01/Lab2_VA)
 Este laboratorio explora técnicas fundamentales de transformación de imágenes utilizadas en flujos de trabajo de visión artificial. El objetivo es comprender cómo se puede manipular computacionalmente la información visual para mejorar el análisis y preparar los datos para modelos de visión avanzados.
+
+### [3. Detección y extracción de características](https://github.com/Hualian01/Lab3_VA)
+Este laboratorio se centra en técnicas de procesamiento estructural de imágenes para extraer información visual relevante. El objetivo es comprender cómo se pueden identificar, mejorar y analizar computacionalmente las características de las imágenes.
