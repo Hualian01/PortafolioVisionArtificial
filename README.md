@@ -12,4 +12,5 @@ La Visión Artificial engloba el conjunto de técnicas de la inteligencia artifi
 ### [1. Introducción a OpenCV](https://github.com/Hualian01/Lab1_VA)
 Este laboratorio introduce los conceptos fundamentales de la visión por computadora y el procesamiento digital de imágenes. El objetivo es comprender cómo se pueden representar, manipular y analizar las imágenes mediante técnicas numéricas y computacionales.
 
-El laboratorio se centra en explorar las estructuras de las imágenes como matrices y aplicar transformaciones básicas para desarrollar la intuición necesaria para tareas más avanzadas de visión por computadora y aprendizaje profundo.
+### [2. Introducción a OpenCV II](https://github.com/Hualian01/Lab2_VA)
+Este laboratorio explora técnicas fundamentales de transformación de imágenes utilizadas en flujos de trabajo de visión artificial. El objetivo es comprender cómo se puede manipular computacionalmente la información visual para mejorar el análisis y preparar los datos para modelos de visión avanzados.
