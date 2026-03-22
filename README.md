@@ -17,3 +17,6 @@ Este laboratorio explora técnicas fundamentales de transformación de imágenes
 
 ### [3. Detección y extracción de características](https://github.com/Hualian01/Lab3_VA)
 Este laboratorio se centra en técnicas de procesamiento estructural de imágenes para extraer información visual relevante. El objetivo es comprender cómo se pueden identificar, mejorar y analizar computacionalmente las características de las imágenes.
+
+### [4. Segmentación y Reconocimiento](https://github.com/Hualian01/Lab4_VA)
+Este laboratorio explora técnicas avanzadas de procesamiento de imágenes utilizadas en flujos de trabajo modernos de visión artificial. El objetivo es comprender cómo se pueden analizar y mejorar computacionalmente estructuras visuales complejas.
