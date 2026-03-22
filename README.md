@@ -23,3 +23,6 @@ Este laboratorio explora técnicas avanzadas de procesamiento de imágenes utili
 
 ### [5. Detección de rostros](https://github.com/Hualian01/Lab5_VA)
 Este laboratorio explora técnicas de análisis estructural de imágenes utilizadas en visión artificial. El objetivo es comprender cómo se pueden analizar computacionalmente las relaciones espaciales dentro de las imágenes para extraer información visual relevante.
+
+### [6. Aprendizaje Automático en Visión Artificial](https://github.com/Hualian01/Lab6_VA)
+Este laboratorio explora técnicas avanzadas de procesamiento visual centradas en la detección y mejora de estructuras relevantes en las imágenes. El objetivo es comprender cómo se pueden preparar y analizar las imágenes para dar soporte a aplicaciones de visión artificial y aprendizaje profundo.
