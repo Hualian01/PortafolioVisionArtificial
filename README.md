@@ -20,3 +20,6 @@ Este laboratorio se centra en técnicas de procesamiento estructural de imágene
 
 ### [4. Segmentación y Reconocimiento](https://github.com/Hualian01/Lab4_VA)
 Este laboratorio explora técnicas avanzadas de procesamiento de imágenes utilizadas en flujos de trabajo modernos de visión artificial. El objetivo es comprender cómo se pueden analizar y mejorar computacionalmente estructuras visuales complejas.
+
+### [5. Detección de rostros](https://github.com/Hualian01/Lab5_VA)
+Este laboratorio explora técnicas de análisis estructural de imágenes utilizadas en visión artificial. El objetivo es comprender cómo se pueden analizar computacionalmente las relaciones espaciales dentro de las imágenes para extraer información visual relevante.
