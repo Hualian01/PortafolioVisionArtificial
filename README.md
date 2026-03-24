@@ -26,3 +26,7 @@ Este laboratorio explora técnicas de análisis estructural de imágenes utiliza
 
 ### [6. Aprendizaje Automático en Visión Artificial](https://github.com/Hualian01/Lab6_VA)
 Este laboratorio explora técnicas avanzadas de procesamiento visual centradas en la detección y mejora de estructuras relevantes en las imágenes. El objetivo es comprender cómo se pueden preparar y analizar las imágenes para dar soporte a aplicaciones de visión artificial y aprendizaje profundo.
+
+## Proyectos
+### [Proyecto Final de Visión Artificial](https://github.com/Hualian01/ProyectoVA)
+El siguiente trabajo trata sobre el desarrollo de una aplicación móvil para la identificación de especies de mariposas en Panamá, utilizando Python, OpenCV, y un modelo de aprendizaje automático. El proyecto busca facilitar el acceso a información sobre el estado de conservación de las mariposas y contribuir a su preservación.
